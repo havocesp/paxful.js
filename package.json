@@ -1,0 +1,22 @@
+{
+  "name": "paxful",
+  "version": "0.0.1",
+  "description": "A powerful Node.JS library for interacting with the Paxful API.",
+  "main": "src/paxful.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PlutonusDev/paxful.js.git"
+  },
+  "keywords": [
+    "Paxful",
+    "Bitcoin",
+    "BTC",
+    "Cryptocurrency"
+  ],
+  "author": "PlutonusDev",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/PlutonusDev/paxful.js/issues"
+  },
+  "homepage": "https://github.com/PlutonusDev/paxful.js#readme"
+}
